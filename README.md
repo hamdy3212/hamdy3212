@@ -81,16 +81,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdy3212&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamdy3212&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <i>✨ "I learn best by shipping real projects, not tutorials." ✨</i>
-</p>
