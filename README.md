@@ -16,7 +16,6 @@
 - 🚀 **Full Stack Engineer** — I build complete products from idea to deployment
 - 🔭 Currently working on **scalable web apps** with React, Next.js & Django
 - 🌱 Building side projects and turning ideas into real, usable products
-- ⚡ Fun fact: I learn best by shipping real projects, not tutorials
 - 💬 Ask me about **React · Next.js · Django REST Framework · TypeScript**
 
 ---
